@@ -1,0 +1,15 @@
+/Users/svisagan/Programs/LearningCSharp/hello_world/bin/Debug/net5.0/hello_world.deps.json
+/Users/svisagan/Programs/LearningCSharp/hello_world/bin/Debug/net5.0/hello_world.runtimeconfig.json
+/Users/svisagan/Programs/LearningCSharp/hello_world/bin/Debug/net5.0/hello_world.runtimeconfig.dev.json
+/Users/svisagan/Programs/LearningCSharp/hello_world/bin/Debug/net5.0/hello_world.dll
+/Users/svisagan/Programs/LearningCSharp/hello_world/bin/Debug/net5.0/ref/hello_world.dll
+/Users/svisagan/Programs/LearningCSharp/hello_world/bin/Debug/net5.0/hello_world.pdb
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.csprojAssemblyReference.cache
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.AssemblyInfoInputs.cache
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.AssemblyInfo.cs
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.csproj.CoreCompileInputs.cache
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.dll
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/ref/hello_world.dll
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.pdb
+/Users/svisagan/Programs/LearningCSharp/hello_world/obj/Debug/net5.0/hello_world.genruntimeconfig.cache

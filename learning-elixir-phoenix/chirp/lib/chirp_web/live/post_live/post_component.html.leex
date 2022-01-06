@@ -1,0 +1,29 @@
+<div id="post-<%= @post.id %>" class="flex flex-col w-full shadow">
+  <div class="flex flex-row">
+   <div class="">
+    <div class="post-avatar"></div>
+   </div>
+   <div class="">
+    <b>@<%= @post.username %></b>
+    <br/>
+    <%= @post.body %>
+   </div>
+  </div>
+
+  <div class="flex flex-row justify-evenly">
+    <div class="">
+      <i class="">Like</i><%= @post.likes_count %>
+    </div>
+    <div class="">
+      <i class="">Repost</i><%= @post.reposts_count %>
+    </div>
+    <div class="">
+      <%= live_patch to: Routes.post_index_path(@socket, :edit, @post.id) do %>
+        <i class="">Edit</i>
+      <% end %>
+      <%= link to: "#", phx_click: "delete", phx_value_id: @post.id do %>
+        <i class="">Delete</i>
+      <% end %>
+    </div>
+  </div>
+</div>

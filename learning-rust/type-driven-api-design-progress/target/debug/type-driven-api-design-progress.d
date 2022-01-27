@@ -1,1 +1,0 @@
-/Users/svisagan/Programs/learning/learning-rust/type-driven-api-design-progress/target/debug/type-driven-api-design-progress: /Users/svisagan/Programs/learning/learning-rust/type-driven-api-design-progress/src/main.rs

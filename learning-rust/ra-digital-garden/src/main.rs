@@ -31,7 +31,8 @@ enum Command {
 }
 
 fn get_default_garden_dir() -> Result<PathBuf> {
-    let user_dirs = UserDirs::new().ok_or_else(|| eyre!("Could not find home directory!"))?;
+    let user_dirs: UserDirs =
+        UserDirs::new().ok_or_else(|| eyre!("Could not find home directory!"))?;
     Ok(user_dirs.home_dir().join(".garden"))
 }
 
@@ -44,7 +45,7 @@ fn main() -> Result<()> {
         None => get_default_garden_dir().wrap_err("`garden_path` was not supplied."),
     }?;
     match opt.cmd {
-        Command::Write { title } => write(garden_path, title),
+        Command::Write { title } => write(garden_path, title)?,
     };
     todo!()
 }

@@ -1,12 +1,9 @@
 [package]
-name = "luminance-first-steps"
+name = "ashen-aetna-vulkanrenderer"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-glfw = "0.41"
-luminance = "0.44"
-luminance-glfw = "0.16"
-luminance-windowing = "0.10"
+ash="0.30.0"

@@ -1,0 +1,12 @@
+[package]
+name = "multiply"
+version = "0.1.0"
+authors = ["Shakthi Visagan <shak360@gmail.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "multply"
+path = "src/main.rs"
+
+[dependencies]

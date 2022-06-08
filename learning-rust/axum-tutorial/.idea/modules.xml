@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/reverse_words.iml" filepath="$PROJECT_DIR$/.idea/reverse_words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/axum-tutorial.iml" filepath="$PROJECT_DIR$/.idea/axum-tutorial.iml" />
     </modules>
   </component>
 </project>

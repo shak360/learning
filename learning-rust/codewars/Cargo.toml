@@ -1,9 +1,0 @@
-
-
-[workspace]
-
-members = [
-    "multiply",
-    "roman_numerals_encoder",
-    "reverse_words"
-]
